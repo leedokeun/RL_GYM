@@ -1,5 +1,5 @@
 # RL_GYM
-Reinforcement Learning for Gym Environment
+Reinforcement Learning for Gym Environment.
 This project implements and compares the performance of three foundational Deep Reinforcement Learning algorithms—DQN, Double DQN, and Dueling Double DQN—on classic control environments from the OpenAI Gym library.
 
 ### Maintainers
